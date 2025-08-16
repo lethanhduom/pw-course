@@ -49,7 +49,7 @@ máy khác nhau
 5. **Arithmetic operator:** +, -, *, /
 6. **Conditional:**
     - Cú pháp: if (<điều kiện>) { // code }. Nếu điều kiện đúng, sẽ chạy đoạn code
-7. **Unary:** toán tử một ngôi i++. i--
+7. **Unary:** toán tử một ngôi i++, i--
 8. **Loops:**
     - Dùng để thực hiện một đoạn logic một số lần nhất định
     - Cú pháp: for(<khởi tạo>; <điều kiện chạy>; <điều kiện tăng>) {// code }
