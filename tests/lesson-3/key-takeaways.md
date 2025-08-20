@@ -1,7 +1,8 @@
 # Lesson 3: Javascript basic (continue)
 ## Git
 1. **Undo actions**
-    - git commit --amend: sửa commit message
+    - git commit --amend: Dùng để chỉnh sửa commit cuối cùng (Git mở editor)
+    - git commit --amend -m”<message>: Sửa commit message ngay trong dòng lệnh, không cần mở editor.
     - git restore --staged <file>: đưa file từ staging về working director
     - git reset HEAD~1: hủy commit gần nhất(uncommit) (đưa file từ repository trỏw về working directory)
 2. **Branching model**
