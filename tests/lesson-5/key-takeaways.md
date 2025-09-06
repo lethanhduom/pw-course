@@ -18,7 +18,7 @@ Function (parameters) {
 - Thẻ mở: <>
 - Thẻ đóng: </>
 - Text: Nội dung giữa các thẻ.
-- Thẻ tự đóng: ví dụ <img src="image.jpg" alt="Image description"/>, <hr>, <br>
+- Thẻ tự đóng: ví dụ <img src=""/>, <hr>, <br>
 3. **Thẻ HTML thường gặp**
 - <div>: chia bố cục.
 - <h1> - <h6>: tiêu đề.
