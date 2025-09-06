@@ -18,16 +18,15 @@ Function (parameters) {
 - Thẻ mở: <>
 - Thẻ đóng: </>
 - Text: Nội dung giữa các thẻ.
-- Thẻ tự đóng: ví dụ <img/>
 3. **Thẻ HTML thường gặp**
-- <div>: chia bố cục.
-- <h1> - <h6>: tiêu đề.
-- <form>: chứa form nhập liệu.
-- <input>: text, email, radio, checkbox, file, color, range, date.
-- <textarea>: ô nhập liệu nhiều dòng.
-- <button>: nút bấm.
-- <table>: <thead>, <tbody>, <tfoot>, <tr>, <th>, <td>.
-- <iframe>: hiển thị trang web khác bên trong trang hiện tại.
+- <div >: chia bố cục.
+- <h1 > - <h6>: tiêu đề.
+- <form >: chứa form nhập liệu.
+- <input >: text, email, radio, checkbox, file, color, range, date.
+- <textarea >: ô nhập liệu nhiều dòng.
+- <button >: nút bấm.
+- <table >: <thead >, <tbody >, <tfoot >, <tr >, <th >, <td >.
+- <iframe >: hiển thị trang web khác bên trong trang hiện tại.
 4. **Selector**
 - Dùng để xác định phần tử trên trang web để thao tác.
 - Các loại selector:
